@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarves)
-  dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
+  # dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   i = 0
   while i < dwarves.length
     puts "#{i + 1}. #{dwarves[i]}"
