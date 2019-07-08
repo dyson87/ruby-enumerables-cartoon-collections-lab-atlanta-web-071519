@@ -10,6 +10,8 @@ end
 
 
 def summon_captain_planet(veggies)
+  new_array = []
+  i = 0
   
 end
 
