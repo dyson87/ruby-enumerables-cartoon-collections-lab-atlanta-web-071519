@@ -12,7 +12,9 @@ end
 def summon_captain_planet(veggies)
   new_array = []
   i = 0
+  while i < veggies.length
   
+  end
 end
 
 def long_planeteer_calls# code an argument here
