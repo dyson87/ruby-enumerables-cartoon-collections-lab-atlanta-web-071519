@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarves)
-  dwarves = %w[Doc Dopey Bashful Grumpy].each_with_index {|item, index|}
+  dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
   puts dwarves
 end
 
